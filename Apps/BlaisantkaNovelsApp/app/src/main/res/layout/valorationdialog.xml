@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ratings_star_ico"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="40dp" />
+
+        <TextView
+            android:layout_width="230dp"
+            android:layout_height="50dp"
+            android:text="¡Valora la app!"
+            android:textSize="35dp"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="45dp" />
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:src="@drawable/starts_icon"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="30dp"/>
+
+        <TextView
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:text="¿Te apetece?"
+            android:textSize="30dp"
+            android:layout_marginTop="300dp"
+            android:layout_marginLeft="65dp" />
+
+        <TextView
+            android:id="@+id/no"
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:text="Pues no"
+            android:textSize="20dp"
+            android:textColor="@color/arrow_right_background"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="370dp" />
+
+        <TextView
+            android:id="@+id/talvez"
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:text="Tal vez"
+            android:textSize="20dp"
+            android:textColor="@color/arrow_right_background"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="370dp" />
+
+        <TextView
+            android:id="@+id/claro"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="¡De acuerdo!"
+            android:textSize="18dp"
+            android:textColor="@color/arrow_right_background"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="372dp" />
+
+    </RelativeLayout>
+</LinearLayout>

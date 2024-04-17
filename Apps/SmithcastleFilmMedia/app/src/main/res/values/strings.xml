@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SC.P. FilmMedia App</string>
+    <string name="cortometraje">VISUALIZAR CORTOMETRAJE</string>
+    <string name="micrometraje">VISUALIZAR MICROMETRAJE</string>
+    <string name="title_activity_fullscreen_sam">ShortFilm of SAM</string>
+    <string name="title_activity_ladyespiritista_microfilm">Lady Mai: La Espiritista</string>
+    <string name="title_activity_ladycover_micro">MicroFilm of Lady Mai</string>
+    <string name="title_activity_fullscreen">Smithcastle Pics. FilmMedia</string>
+    <string name="title_activity_samsaddiary_film">SAM SAD Diary</string>
+    <string name="title_activity_fullscreen_lady">FullscreenLadyActivity</string>
+    <string name="lady_micro">Visualizar Micrometraje</string>
+    <string name="title_activity_lady_espiritista_micro">LadyEspiritistaMicroActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

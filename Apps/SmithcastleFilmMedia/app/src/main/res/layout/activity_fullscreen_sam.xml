@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/fvolver"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/flechavolver"
+        android:translationZ="1dp"/>
+
+    <ImageView
+        android:id="@+id/fullscreen_sam_content"
+        android:layout_width="match_parent"
+        android:layout_height="710dp"
+        android:gravity="center"
+        android:background="#000000"
+        android:padding="10dp"
+        android:keepScreenOn="true"
+        android:longClickable="false"
+        android:src="@drawable/samsaddiary" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:id="@+id/fullscreen_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black"
+            android:longClickable="false"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <Button
+                android:id="@+id/bCortometraje"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/black"
+                android:layout_marginBottom="20dp"
+                android:text="@string/cortometraje"/>
+        </LinearLayout>
+    </FrameLayout>
+</RelativeLayout>

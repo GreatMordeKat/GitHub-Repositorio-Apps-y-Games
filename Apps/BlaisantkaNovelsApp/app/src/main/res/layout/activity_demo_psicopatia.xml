@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|top"
+            android:textAlignment="center"
+            android:layout_marginTop="10dp"
+            android:text="Demo Psicopatía.\nUn slasher de 20 puñaladas"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="textStart"
+            android:text="Sinceramente suyo, Jack"
+            android:textSize="20dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="textEnd"
+            android:layout_marginTop="200dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/cabecera_1_psicopatia"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="330dp"
+            android:layout_marginRight="20dp"
+            android:paddingBottom="60dp"
+            android:lineHeight="28dp"
+            android:text="@string/demo_psicopatia"
+            android:justificationMode="inter_word"
+            android:textColor="@color/grey" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="2030dp"
+            android:lineHeight="28dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/datos_ex_sinceramentesuyo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/noticia_suceso_sinceramentesuyo_1"
+            android:layout_marginLeft="20dp"
+            android:textAlignment="center"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="2450dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/noticia_suceso_sinceramentesuyo_2"
+            android:layout_marginLeft="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="2560dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="La cura"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="3720dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cabecera_2_psicopatia"
+            android:textAlignment="textEnd"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="3740dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/demo_psicopatia_2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginTop="3840dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:lineHeight="28dp"
+            android:text="@string/datos_ex_lacura"
+            android:layout_marginTop="9260dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="I"
+            android:layout_marginTop="9580dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/datos_ex_lacura_I"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginTop="9620dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="II"
+            android:layout_marginTop="12590dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/datos_ex_lacura_II"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginTop="12630dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="III"
+            android:textAlignment="center"
+            android:layout_marginTop="14820dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="ESQUELAS EL NOTICIERO 10/1/2020"
+            android:layout_marginTop="14850dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:lineHeight="28dp"
+            android:text="@string/datos_ex_lacura_III"
+            android:layout_marginTop="14880dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="D.E.P."
+            android:layout_marginTop="14970dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Slasher"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="15050dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="I. CROSSOVER (cruce)"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="15130dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/slasher_crossover"
+            android:layout_marginLeft="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginTop="15160dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="II. REINA DEL GRITO"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="15370dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/slasher_reinagrito"
+            android:layout_marginLeft="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="15400dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="III. TU PELÍCULA DE TERROR PREFERIDA"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_marginTop="15720dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:lineHeight="28dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/slasher_peliculapreferida"
+            android:layout_marginTop="15750dp"/>
+    </FrameLayout>
+</ScrollView>

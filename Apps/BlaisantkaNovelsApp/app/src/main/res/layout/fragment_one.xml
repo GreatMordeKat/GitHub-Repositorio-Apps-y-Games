@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context="com.blaisantkanovels.app.fragments.one">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/desliza"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+            android:src="@drawable/desliza"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+        <ImageView
+            android:id="@+id/otrosautores"
+            android:layout_width="match_parent"
+            android:layout_height="560dp"
+            android:foreground="@drawable/pic_otrosautores"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <ImageView
+            android:id="@+id/logo_blkn_portada"
+            android:layout_width="280dp"
+            android:layout_height="180dp"
+            android:contentDescription="@string/todo"
+            android:foreground="@drawable/logo_blkn_portada_fondo"
+            app:layout_constraintTop_toBottomOf="@id/otrosautores"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_marginRight="70dp"
+            android:translationY="-100dp"
+            android:scaleX="0.8"
+            android:scaleY="0.8"
+            tools:ignore="UnusedAttribute" />
+
+        <Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="bottom"
+            android:background="@color/transparent"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="0dp"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="80dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:background="@color/transparent"
+                android:src="@drawable/arrow_down" />
+        </Toolbar>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

@@ -1,0 +1,500 @@
+<resources>
+    <string name="app_name">Blaisantka Novels</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Portada Cartas de Freedel -->
+    <string name="sinopsis_Cartas_de_Freedel">
+        Sinopsis: \n
+        \t\t\tUna guerra estalló en algún punto y momento de una galaxia de la que poco se sabe, bautizada como El Dominio,
+        allá en los confines, en el borde del espacio profundo. Desconocemos qué la originó. Félix Freedel, un excombatiente
+        del Vietnam que quedó deformado, lleva años estudiando la contienda. Ha estado en coma inducido durante más de una
+        década, era lo que lo mantenía alejado del entorno hostil que se respira en las calles y que lo ha esperado impaciente. \n\n
+        \t\t\tHoy, 15 de octubre de 2102, Freedel ha despertado.
+    </string>
+
+    <string name="todo">TODO</string>
+    <string name="sinopsis_Modere_sus_Palabras">
+        Sinopsis: \n
+        \t\tCuando un guerrero va a luchar por su pueblo y una esposa está triste por su ausencia,
+        \t\tsiempre queda la larga espera y un vacío en su interior. Para aguantar la agonía le ayudará
+        \t\tuna inesperada visita.
+    </string>
+    <string name="Relato_Modere_sus_Palabras_exorcista">
+        \t\tEra un receptáculo de piedras el que se afanó dando forma a una circunferencia irregular,
+        rebosante de líquido rojizo maloliente. Después de varias horas ya no daba la vida; se había coagulado: la quitaba.
+        Estaba en cada una de estas piezas de duro mineral tallado un símbolo que no se sabía a ciencia
+        cierta qué significado poseía, habiendo sido manufacturadas por unos dedos sabios, carentes de uñas.
+        Tras acabar con su labor su orgullo no pudo ser menor al contemplar cómo aquella estrella de cinco puntas
+        calamitosas apuntaba a donde debían. Este chamán tenía una misión qué cumplir. De sus palabras saldría
+        la orden mandada hacia los otros círculos; aquellos gobernados por miles de ejércitos deshumanizados,
+        bestias inmundas con altas cornamentas. \n\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*** \n\n
+        \t\tEn una época convulsa... \n
+        \t\tAquel que levantaba su espada al viento era Dragkar «Demoníaco», un vigoroso guerrero que, por sus
+        maneras de actuar, el terror comandaba sobre él. Su apodo se debía, en parte, a que tenía en su haber
+        más de 20 cabezas colgantes en su cintura, podridas y sangrantes por sus arterias carótidas y las vertebrales,
+        seccionadas ambas ―y en un goteo continuado―, de aquellos a los que había cortado el pescuezo de un tajo, blandiendo
+        su hoja con sádicas y hermosas palabras: «A todos aquellos, mis fieles enemigos, que me deseáis ver bajo tierra,
+        entre larvas hambrientas de carne fresca y gusanos larguiruchos que mis labios rozarán. Mi alma jamás perecerá, lo juro».
+        Tenía por costumbre mostrarlas en público a su batallón para que supieran, y no se les olvidara, que, quien lo rivalizara,
+        acabaría de igual modo. \n
+        \t\tEra temido, pero también envidiado.... y hasta odiado. Su padre le puso por nombre Edakoris D\'mniako para proseguir
+        con una demacrada tradición familiar; él renegó de ella. Era dado a su mujer, no obstante, también se dejaba seducir
+        por esa flagrante amante que supiese ver en él al fornido cabrío gran conocedor de lo que esta flor negra tuviera para
+        bien ofrecerle. Estuviesen casadas, solteras o viudas, no importaba, bastaba con una demostración de cierto afecto.
+        Aunque no era solo por su parte, Assudem, también gozaba de mucha libertad y sus amantes se contaban por decenas.
+        No cabía juicio en que era un matrimonio inusual. Sus actos no eran tampoco aceptados por su pueblo, los mallekianos, ni
+        por sus dioses, quienes ya se la tenían jurada a Dragkar. Era este último quien los ignoraba de una forma descarada.
+        Llegados hasta aquí había un serio problema para Dragkar; su esposa era estéril y no le había podido engendrar un heredero
+        que llevara su honor hasta lo más alto de la jerarquía mallekiana. Tal suplicio, como gran y temido hombre sanguinario
+        que era, había sido un duro revés para llevar a sus combates; se le veía desmoralizado y descorazonado. Lo cual, para sus
+        rivales, era una vulnerabilidad deliciosa de descubrir. \n
+        \t\tTras meses de fornicación con cual falo estuviese a la altura, y sin ser encintada, Dragkar tomó la necesaria y tortuosa
+        decisión de encomendarse a los dioses por medio de su chamán, aquel a quien nadie quería recurrir y por el que este
+        valeroso luchador no daba ni cuatro piezas de oro: Acfelus «Ojo negro». \n
+        \t\tEste misterioso mago de origen incierto tenía un tipo de acuerdo abierto con uno de los dioses de su pueblo ―diosa, para
+        ser exactos―, Ottamantis, una entidad con un temperamento salvaje e implacable. A ella imploraba, por norma general, para
+        la obtención de buenas cosechas, su piedad y una serie de advenimientos a evitar. Esta última petición no solía ser admitida
+        y lo castigaba con un diluvio anual que solía matar a la mitad de la población de Mallek. \n
+        \t\tLo que resultaba gracioso era que esta deidad no cesaba en observar a los mallekianos. Su forma de vida; sus vicios y pocas
+        virtudes y, en un largo etcétera, todo aquello que no veía correcto para su dictadura espiritual, siempre estaba en tela de
+        innumerables juicios. En muchos de ellos acostumbraba a dar cierto beneplácito, honrando a aquellas personas que lo mereciesen
+        de verdad. Esto no pasó con las hijas del líder mallekiano, Cornécalus «El Batallante»: virtuosas en su adulterio y falsas
+        esposas. Cuando supo que la desvergüenza de ese pueblo ―en un principio controlado― se había desbocado, tuvo que hacer lo propio
+        lanzándoles una saga de lamentables sucesos, entre los que podíamos encontrar uno de los más importantes; ninguna mujer del
+        poblado y aliados podría, de por vida, engendrar más retoños, no bajo su existencia. ¿Esto significaba que, si dejaban de
+        rezarla, era posible que aquellos malos augurios desapareciesen? En efecto. Lo cual no gustó entre el populacho. Era descabellado
+        no encumbrarla: era inmoral. \n
+        \t\tComenzaron pues las desdichas. Decenas de mujeres agonizaron en sus lechos, sin poder ser visitadas por miedo al contagio,
+        moribundas en sus delirios y muertas tras horas de intensas fiebres. Assudem, por supuesto, sufrió también las consecuencias
+        que se adueñaron del pueblo de Mallek y alrededores. Hemorragias repentinas e inexplicables, vómitos en medio de la noche y un
+        sinfín de visiones en las que creía ser consciente de ser visitada durante algunas de esas madrugadas por un ser negro, muy alto
+        y corpulento. Aquel que la veía aprovechaba dolorida para tentarla con una muerte rápida, sin suplicas. Pero, antes de ello,
+        quiso jugar con ella advirtiéndola de algo: «tu valiente esposo caerá en plena guerra, y no por culpa de los que lo quieren
+        aniquilar, sino, por Acfelus; está planeando una traición debido a que suspira por tu corazón». \n
+        \t\tAssudem tuvo que preguntarle, como pudo, debido a su falta de fuerzas en su ser: \n
+        \t\t―No os creo, seáis quien seáis ―tosía al decirlo. \n
+        \t\t―¡Necia mujer!, ¿insinúas que miento? \n
+        \t\t―Sólo os digo que no os creo ―reiteró convencida―, ¿cómo sabéis eso? \n
+        \t\t―Porque él vino a mí, ese hechicero de mil demonios no sabe con quién está tratando y sólo desea tu compañía, tu amor; tu coño,
+        para ser más claros ―aseguró aquel ser. \n
+        \t\t―Tú debes ser un demonio, ¿cómo, si no, sabrías eso? \n
+        \t\t―¡Escúchame, mujer ridícula! ―Estalló en un poderoso grito ―No me costaría nada llevarte conmigo a mis dominios, muchos estarían
+        encantados de que allí estuvieras. Pero no les daré ese gusto, no por ahora. Quiero que Dragkar venga a mí. Perdonaré tu insulsa
+        vida en el caso de que él me dé la suya: ese es el trato ―expresó reclamando el alma de su esposo a Assudem. \n
+        \t\t―De acuerdo, ¿y cómo diantre te crees capaz de hacer que él venga? ―Preguntó curiosa, no le importaba hacer ese pacto si allá donde
+        la llevaba podía ser fornicada por miles de cerdos sedientos de ella. \n
+        \t\tEste ser se sorprendió de sus palabras. Rebajó su fiebre hasta dejarla lúcida de cordura y se lo volvió a preguntar por si no pensaba
+        con claridad. Entendió que podría ser una aceptación producto del delirio. Probó de nuevo: \n
+        \t\t―¿Sigues queriendo aceptar? \n
+        \t\t―Amo a mi esposo, pero también deseo ser follada, y él no está, anda lejos de mí. Necesito ser amada: sí, por favor, acepto. \n
+        \t\tAquel ser no tuvo más remedio que hacer por complacerla, pero no como ella se esperaba, ardiente y lujuriosa. La escarmentó después de todo. \n
+        \t\t―No venía a por ti, pero visto la clase de esposa que tiene Dragkar, prefiero utilizarte y matarte antes que él salga damnificado. \n
+        \t\t―¿Y cómo lo piensas hacer, demonio? \n
+        \t\t―Acfelus vendrá a por ti, a salvarte: él le avisará. \n
+        \t\t―No entiendo qué pretendes, ¿salvarme?, ¿de qué? ―Empezó Assudem a hacer demasiadas preguntas, denotaba cómo estaban sus nervios, a flor de piel. \n
+        \t\t―Voy a poseerte. Y tú, zorra, me vas a dejar entrar... ―declaró a medida que se abalanzó sobre ella, dado que lo había aceptado, sólo
+        tenía que adueñarse de su cuerpo. \n
+        \t\tLa levantó, le arrancó la piel, sangró por todos los rincones de su delicado cuerpo, la dobló hasta romperle todos los huesos que armaban su
+        esqueleto e hizo de ella su marioneta hasta su final: su muerte descarnada. Los gritos cesaron en ese preciso instante, cuando Acfelus llegó y
+        accedió a ese caserío, se la encontró levitando a escasos metros de su cama. \n
+        \t\t―¡Diosa santa!, ¿qué está pasando aquí? ―Preguntó sin saber cómo actuar, boquiabierto según lo que iba viendo. \n
+        \t\t―Lo que pasa es lo que ves, ¡hechicero charlatán! ―Exclamó en alto aquella entidad ―Me he adueñado de esta insensata que no se creía que nada de esto iba a pasar. \n
+        \t\t―¡Bien, demonio!, ya has manifestado tu poder. Ahora, ¡te ordeno que la sueltes! \n
+        \t\t―Me parece que no has entendido nada, hechicero... ¡ella es mía!, ¡y mía seguirá siendo! Dragkar viene hacia aquí y quiero su alma, no la de esta ramera. \n
+        \t\t―¿Cómo? ―Preguntó Acfelus sorprendido por el comentario―, ¿que viene? Dragkar está en una lucha sin cuartel y ahí debe permanecer. \n
+        \t\t―No, mi fiel y tonto invocador; tú has hecho posible que yo esté aquí y es muy fácil engañar a un hombre tan devoto de su esposa ―declaró el demonio―. \n
+        \t\tEl viene hacia aquí y va a ver cómo tus manos asesinan a esta pobre infeliz. \n
+        \t\t―¡Eres un maldito manipulador! \n
+        \t\t―Modere sus palabras, ¡exorcista! Sabes bien que has luchado por el amor de esta mujer y querías traicionar a Dragkar: ¡ahora es tu oportunidad! \n
+        \t\t―¡Ya basta, demonio! ―Gritó Acfelus, tapándose los oídos. \n
+        \t\tCuando una voz, justo tras Acfelus, comentó: \n
+        \t\t―¿Es eso cierto, Acfelus?, ¿querías traicionarme por el amor de mi esposa? ―Era Dragkar, había regresado de verdad. \n
+        \t\tSu aspecto era amenazante y su color de piel roja estaba como el acero al tente; miraba a Acfelus con ira, con celos, deseaba matarlo, y por eso desenvainó su espada. \n
+        \t\t―Si es eso cierto, házmelo saber. ¿Me has entendido? ―Lo apuntaba Dragkar con la punta de su filo ―O te decapito aquí mismo. \n
+        \t\t―¿Quieres que me deshaga de él, Acfelus? ―Le preguntó aquel demonio. \n
+        \t\tEste chamán charlatán y enamorado en secreto, hastiado por el miedo, no quería caer en la trampa, pero sí quería dejar el asunto de Assudem y él bien enterrado, para
+        siempre. Una forma de intentarlo era confesárselo a Dragkar, un buen amigo de toda la vida, y esperar a que él tuviese piedad. \n
+        \t\tSin embargo, el demonio tenía otras intenciones: obligó a Acfelus a hablar. \n
+        \t\t―Vamos, Demoniaco, sólo quería satisfacer mis deseos de carne con la puta que yace sobre tu lecho en noches de tregua. ¿No me dirás que no es una mujer apetitosa? \n
+        \t\t―Pero, al decir esto, el demonio dejó de controlarlo, era más que suficiente para enfadar a un guerrero como Dragkar al que despojar de su ‘honoris causa’ inmerecido―.
+        ¡No, Dragkar!, ¡yo no he dicho eso!, ¡no te dejes engañar, fiel amigo! \n
+        \t\t―¿Dragkar?, ¿vas a dejar que te hable así este traidor? \n
+        \t\t¡ZAS! Fue lo único que hizo callar unos segundos al ser que lo hablaba. \n
+        \t\tEl frío sable de Dragkar hizo volar la cabeza de Acfelus cerca de donde se encontraba el cuerpo suspendido de Assudem, presa de este maléfico demonio que la retenía, aunque fuese sin vida.
+        Unas palmadas sonaron en el silencio del momento. La mirada borrosa de Dragkar cobró visibilidad después de los celos y la furia, y vio lo que nunca hubiera deseado ver;
+        a su mejor amigo sin cabeza en el suelo y repleto de sangre, la cual también estaba pisando. Assudem era quien aplaudía. \n
+        \t\t―¡Bravo! Bien, bien, bien… ―dijo entre la burla y el respeto ―¡Ya iba siendo hora de que hicieras algo decente, querido esposo! ―Y una gran risotada aún lo enfureció más a Dragkar si cabía. \n
+        \t\t―Ahora... ¡tú eres el siguiente! ―Volvió a blandir la espalda señalándole. \n
+        \t\t―¿Te atreverás a matar a tu preciosa mujer? \n
+        \t\t―No eres más que un estafador, un perro del infierno: y vas a regresar allí. \n
+        \t\t―¡Atrévete, guerrero!, ¡hazme participe de lo valeroso y cruel asesino que eres! ―Siguió jugando con Dragkar hasta el culmen de su rabia. \n
+        \t\tHabía perdido a dos de los seres más queridos por culpa de ese ser que tenía delante y necesitó valorar sus opciones antes de volver a perderse en su amargura. \n
+        \t\t―No quiero, no voy a ir a por ti ―dijo Dragkar, decidido. \n
+        \t\t―Una lástima, ¡porque yo sí! \n
+        \t\tY así lo hizo, salió como un obús del cuerpo de Assudem, ya cadáver, y penetró en el cuerpo del combatiente e indigno luchador de Mallek probando fortuna en
+        hacer que su alma, malvada y corrompida, se dejara domar por él. \n
+        \t\tGritos, la garganta resquebrajándose, muchos más gritos agónicos, su alma estaba consumiéndose, tramitando su viaje sólo de ida al círculo de donde vino este demonio.
+        Reventó sus órganos vitales; pulmones, riñones, hígado... Obligó a mutilarse de cabeza a pies a Dragkar, poniendo sus cuencas en blanco e iris en anaranjado color, surgiendo profundos
+        y peligrosos cortes en su carne... hasta que: sucedió. \n
+        \t\tDos grandes tajos perfectos. Un harakiri que lo abrió en canal, esparciendo sus intestinos por el suelo, algo de alimento descompuesto y un hedor terrible, y su debida decapitación.
+        Dragkar murió, debiendo ser llevado al purgatorio por sus crímenes. Sin embargo, el demonio, mandado por Ottamantis, consiguió llevarse a Assudem a su lecho: su plan desde el principio pactado con la diosa. \n\n
+        \t\t¡Salve Ottamantis!
+    </string>
+    <string name="sinopsis_blasfemias">
+        Sinopsis: \n
+        \t\tHay una serie de blasfemias que, para bien o para mal, no deben ser pronunciadas jamás; no, a menos que queramos
+        despertar a una maldad mayor que la del propio ser humano. \n
+        \t\tLos relatos que aquí se presentan no son aptos para todos, leed con responsabilidad.
+    </string>
+    <string name="sinopsis_psicopatia">
+        Sinopsis: \n
+        \t\t¿Hay algo peor que ser víctima de un asesino? ¿Qué siente el cazador cuando va tras su presa?, ¿y cuando
+        el cuchillo ha traspasado su piel? Cuando brota la sangre, ¿qué sienten asesino y víctima? \n
+        \t\tEn esta antología de relatos slasher, compuesta de 20 puñaladas, notarás tan cerca el cálido aliento
+        del cazador sobre tu nuca que solo querrás huir, pero también experimentarás la adrenalina de la persecución y
+        la excitación del depredador al tener a su presa tan endiabladamente cerca para, finalmente, atraparla. \n
+        \t\tNo sólo conocerás a psicópatas sádicos, que matan por el mero placer de hacerlo, o a asesinos vengativos que
+        han urdido todo un plan para conseguir su revancha; también a víctimas incautas que, ignorantes del peligro que les
+        acecha, sólo intentan evitar la muerte cuando ya es demasiado tarde. \n
+        \t\tAdemás, temblarás con los micrópatas, pequeños y estremecedores slasher que te pondrán el vello de punta, y con
+        los poeslashers, poemas que, aunque no tengan rima, te harán asegurarte de que has cerrado la puerta con llave antes
+        de irte a dormir.
+    </string>
+    <string name="demo_antologia_blasfemias">
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNOTAS DE EDITOR \n
+        \t\tDebido a la forma en que está escrito el relato, el autor considera que es necesaria una breve aclaración
+        (no por la falta de entendimiento del texto, sino para asegurar su correcto discernir). Se da una doble realidad
+        en el relato: por un lado, la realidad de la Annie que narra el pasado más reciente y, por otro lado, la realidad
+        de la Annie adolescente. Al estar escritas ambas en 1ª persona, así como que sea la protagonista desde el presente
+        quien narre la historia, puede llevar a confusión, más con esta nota se pretende esclarecer este hecho. \n
+        \t\tPara facilitar la separación de ambos tiempos (adulta y adolescente), se dividieron las escenas de forma que fuesen
+        fácilmente identificables. Cabe señalar que toda la narración acontece en pasado; el tiempo en que se suceden dista
+        mucho el uno del otro. \n\n\n\n
+        \t\tTengo algo que contaros: \n
+        \t\tFuimos al hotel de siempre, de estricta profesionalidad y escrupulosa formalidad. Su fachada era señorial y se podía
+        respirar discreción por los cuatro costados; era un requisito que mis clientes, agradecidos, nunca han dejado de
+        solicitarme, quedando complacidos. \n
+        \t\tEn este falso burdel, si así se prefiere ver, me conocían desde hace años, nunca he permitido que se olvidara que mi
+        educación ha sido muy severa y que muchos de mis clientes la aman por encima de mi personalidad, fuera cual fuese; he
+        sido y soy una mujer muy seria y elegante y no olvido mis orígenes: el polígono industrial que me vio trabajar. \n
+        \t\tMe considero asidua a este hotel dado el flujo de clientes que manejo y la atención que les brindo; personalizada, mis
+        modales también ayudaban. Era común en mí alquilar las habitaciones de la tercera planta porque eran las más asequibles
+        para mi bolsillo. Soy estricta con mis principios; por más dinero que gane no soy una mujer de gustos caros ni ostentosos. \n
+        \t\tMe cité con Don Román, un buen esposo y padre excelente. De eso no tenía menor duda; adoraba a sus hijos, tenía dos un
+        tanto revoltosos —como a veces me ha comentado de pasada, orgulloso—, quería más a su esposa de lo que me han querido a mí
+        nunca —que yo recuerde—. Era corpulento, de impecable porte y una tez algo arrugada: odiaba los potingues, como él los
+        llamaba. Tenía entendido que su mujer hacía por cuidar su cutis, pero sin demasiados logros —sabía más de ella que de
+        Don Román, lo cual me resultaba curioso—. \n
+        \t\tTodas las veces que nos hemos citado las he disfrutado haciéndome sentir como su única hija, dándome caprichos que de niña
+        nunca tuve: me encantaban los cucuruchos y ahora tenía cuantos pidiese. En ciertas ocasiones, también solía llevarme al
+        cine; las películas románticas han sido, desde cría, mis preferidas. A él no le costaba nada hacer que las reviviera de
+        nuevo, complaciéndome del mismo modo que se les hacía a las mocosas de diez años malcriadas. Era un encanto de hombre y me
+        lo demostraba; atento a mí, entregado, muy cariñoso y respetuoso. \n
+        \t\tCierto era que había diferencia de edad, de unos veinte o treinta años. Este punto no lo tenía tan claro como me hubiera
+        gustado —su privacidad era sagrada, la de él y la de todos mis clientes—, podía ser un impedimento para sentir aprecio por
+        él, en cambio, se las arreglaba para disipar todo el cariño que pudiéramos sentir en común —más tarde entenderéis por qué—.
+        Hoy en día, ignoraba dónde vivía Don Román ni qué iba a hacer cuando estuviese con su mujer; eso es algo que le gustaba
+        reservárselo para su matrimonio. \n
+        \t\tPero, entonces, ¿qué era lo que compartíamos? ¿No era obvio?: sólo y tan sólo puro sexo, perversión desinhibida. Temblaba
+        con el animal que tenía delante. Y, por descontado que sí: conmigo podía serlo cuanto quisiera. Desde luego, por un módico
+        coste durante una hora. A pesar de este detalle, Don Román, era escrupuloso como el que más; daba igual lo que fuese, el
+        más mínimo detalle le ocasionaba un enorme disgusto. Le gustaba que fuese bien vestida para empezar la velada, debía
+        provocarle una sensación de control hacia mí como primer e innegociable protocolo. No se lo discutía: era mi cliente y yo
+        la puta pagada. Tenía pleno derecho a tantos deseos como su mente calenturienta quisiese. \n
+        \t\tNo le importaba cuánto invertir en mí, aún era más ―y era lo más romántico que me habían dicho nunca y al oído—: no quería
+        a ninguna otra que no fuese yo. Me abría la puerta del copiloto para que empezara luciendo, previa práctica, mi larga y
+        depilada pierna derecha. Obligada estaba a resguardarla con unas sugerentes medias de pequeña rejilla negra, las cuales me
+        daban un ‘look’ más pendenciero si se podía. Con ellas tenía que salir de un BMW recién lavado y limpiado, tanto por dentro
+        como por fuera: inmaculado. Su tapicería estaba repleta de curvas de diseño futurista y disponía de unos asientos de cuero
+        agradables al tacto y al olfato. \n
+        \t\tMe producían una humedad en mis genitales que debía aguantar como una vulgar señorita reconvertida a geisha, sin gemidos ni
+        quejidos. Me llevaba a todo tipo de convenciones y eventos. Para ser sincera, gracias a él he visto mundo y, por ello, he
+        sido muy conocida por muchos y muchas, sobre todo por los primeros: otros varones babosos de gustos igual de refinados que
+        mi cliente. \n
+        \t\tSabían de mi condición y lo hablaban con Don Román para saber si estaba disponible; no se lo pensaba dos veces, la
+        respuesta era un rotundo «no» con los labios nerviosos, temblorosos ―no le gustaba, en absoluto, no ser el único en domarme
+        como a una yegua. Sabía que eso era para él en los momentos en los que debía callar y actuar como tal―, añadiendo al final
+        la frase que los constreñía a respetarle cual capo mafioso, temerosos de él, lanzándoles éste una sola mirada que los
+        fulminaba: «Fuera de mi vista». \n
+        \t\tEn cuanto a mí... no sé qué es lo que os esperaréis; no obstante, lo que he de contaros es, por lo demás, una anécdota de
+        una adolescente desorientada. Para bien o para mal, esa etapa la he sufrido, la he sentido y llorado hasta quedarme sin
+        líquido en mis corneas. No seáis condescendientes, tuve una infancia muy feliz rodeada de unos padres que siempre han
+        cuidado de mi bienestar, fue en mi juventud cuando las cosas comenzaron a torcerse. Lógico, ¿verdad? Mi familia ha sido,
+        desde que tengo uso de razón, de clase media, muy trabajadora, contribuyente a España. En cierto modo, no había demasiado
+        que contar sobre ella, y lo que hubiese, lo relataré conforme avance y recuerde. \n
+        \t\tEsa noche, Don Román y yo sólo teníamos ganas de divertirnos, buscándonos de manera ardiente y anónima, sin demasiadas
+        pretensiones, sólo retozar como cerdos en una pocilga. ¿Él era dominante? La respuesta más sencilla es: no, con un gran
+        depende. Cuando llegamos a la habitación, la 214, al entrar, percibí un aroma tan clásico y hogareño como el que solían
+        darme las tostadas que se hacía mi madre para desayunar con mermelada, que tanto me gustaban y que me abrían el apetito:
+        ¡qué hambre! Me entristecía añorarlo. Don Román tenía esa norma al principio de la cita, como un ritual básico para
+        complacerme y él poder sentirse gratificado; dulces de bienvenida sobre las almohadas, una cama higienizada y hecha con
+        pulcritud con sábanas perfumadas, bañadas en un campestre aroma a miel y lavanda. Me conseguían relajar sobremanera, me
+        hacían viajar a un prado típico de «La Tribu de los Brady» las series ochenteras familiares, disculpad la broma. \n
+        \t\tPor su parte, Don Román, era un hombre tradicional, y como aquel, enseñado en esas mismas costumbres; las de un engreído
+        macho alfa machista que sólo aspiraba a tener a una mujer como un objeto al que usar a su interés, permitiéndole algo de
+        desobediencia. No era su culpa después de todo, sólo le importaba sentarse en el borde de la cama, ver lo cómoda que era
+        para él —dando por hecho que a mí también tenía que gustarme— y esperar a que su zorrita estuviera lista para empezar un
+        juego que ya teníamos apalabrado y del que yo iba a salir mal parada. \n
+        \t\tLas normas exigían que yo debía de estar tan puntual como recitaba la canción en el baño, dándome la pertinente ducha para
+        luego ir ligera con el acicalamiento. Tenía que reconocer que ponerme aquellas capas de fina lencería glamourosa, que había
+        olvidado traer puestas esa noche, me sentaban como una actriz porno de alto caché. Había sido bajo petición de Don Román y
+        tenía que pedirle mis más que sinceras disculpas, burladas y aceptadas de manera vaga con una palmadita fuerte en una de
+        las nalgas, apretujándolas y levantándome con sus fornidos brazos con levedad, haciéndome poner en puntillas. \n
+        \t\t—Pero no lo vuelvas a hacer o me veré obligado a forzarte a realizar la mamada que te haga toser hasta llorar, y en la que
+        sólo pararé cuando me corra —me dijo al oído, paciente y comprensivo, comprometido con esa sesión de lo que fuese que
+        quisiera hacer. Me ruborizó al punto de sentir como las hormonas salían disparadas, provocándome una contundente
+        excitación—: estás avisada. \n
+        \t\t¡Eso era un hombre, joder!, sabía cómo enderezarnos. La razón del porqué se organizó este encuentro tenía que ver con su
+        mujer; en los últimos días, se había hecho alguna película malsana dirigida y protagonizada por su intuición. Presintió que
+        ella andaba suelta manteniendo una aventura con otro hombre. Se culpabilizaba de ello, no tenía pruebas que avalaran esa
+        teoría, pero, conociendo a Don Román y a su formidable inteligencia, creía más en su palabra que en la de muchas arpías que
+        yo pudiera conocer. Podían ser las mejores amigas que una chica cualquiera tuviese, sin embargo, por la espalda, te
+        encontrabas con unas personas que, más que esposas, eran rebeldes egoístas a más no poder a quienes no les temblaba el
+        pulso a la hora de ser infieles. La cantinela estribaba lo siguiente: «En el bello juego de la mentira, la más astuta era
+        la silenciosa. Menuda puta estaba hecha». \n
+        \t\tEntendía a este matrimonio porque me gustaba ponerme en la piel de ambos, ser como su psicoanalista privada. Sentía
+        tristeza por ella y mucha desvergüenza por él. De hecho, debía cerrar lo más aprisa posible el pico porque estaba cayendo
+        en la ironía: la primera desvergonzada ya sabéis quién era. Quería permitirme el lujo de que semejante desliz se diese.
+        ¿El porqué de ese siniestro motivo? Había que comprarse aquel bolso tan «cuqui» de piel de zorra que ni mucho menos era
+        barato. Lo sé, soy una hipócrita: demandarme. \n
+        \t\tSu vida junto a ella estaba en medio de un gran bache sentimental y no se veía preparado para experimentarlo a solas.
+        Necesitaba de un apoyo moral y quería hacerlo junto a mí, la más inmoral de todas. Era divertido y morboso, quería
+        disfrutar al menos de eso cuanto se pudiera; por eso hoy estábamos en uno de mis lugares de referencia, ni más ni menos.
+        Recuerdo, por desgracia, cómo las pasé en muchas de mis relaciones, porque sí, las tuve, no demasiadas, pero se podían
+        contar con los dedos de una mano y parte de un pie. Aún me duele aquella que pasé incluso por un altar, qué mal año tuve
+        que superar y que bochorno me hizo experimentar el muy cabrón con quien estuve pretendida. Tuvo la desfachatez de admitir
+        su homosexualidad —oportunista de manual— delante de una mujer tan despampanante como yo y la poca sensatez de dejarme
+        plantada por un joven que sólo lo había querido por algún tipo de interés —ojalá te mueras, Andrés—. Supe, con el tiempo,
+        como si hubiere sido ayer, que, con el que se fue, le tocaron más de diez millones de euros en la lotería. El muy imbécil
+        se había encaprichado por ese otro mozo, Ignacio, dejándome compuesta y con el vibrador entre mis piernas, ¡menudo orgasmo
+        más agridulce! \n
+        \t\tTal vez por aburrimiento fui a nuestra cita, no como una escort contratada para dar unos servicios completos durante cerca
+        de diez horas, sino que, mirándolo desde la otra cara de la moneda, fui como una buena amiga a quien él conocía desde hacía
+        años. Pantomima absoluta, nunca tuvimos esa amistad, o eso me hizo creer, quién lo sabía... ¿Podía darse en esa noche
+        predilecta la opción para tenerla? Tenía también pensado un íntimo y honesto tú a tú con mi cliente, abriéndome —no seáis
+        tan mal pensados—, si es que cabía en su mente el hacerlo: conocerme algo más. Era reacia a hacerlo con muchos otros, no
+        merecían tanto la pena y no me daban ese amor y cariño que sí me daba Don Román. A mi juicio, una ganga para él, ¿no?
+        Porque... \n
+        \t\t¿Quién era Annie en realidad? \n
+        \t\t¿Interesaba saberlo? \n
+        \t\tAl momento que mi cliente me ordenó ponerme sobre la cama, pude ver sus ojos bien abiertos y hambrientos por mis carnes;
+        mis pechos escotados, redondos y alzados, embutidos en un corsé de tonos morados acabado en un bonito liguero a juego y con
+        bordados. Sabía que se le hacía la boca agua, esos labios carnosos, aunque algo resecos, pedían chupar teta como un bebé;
+        no íbamos a llegar hasta ese punto por ahora. Necesitaba creer que, si quería iniciar una conversación, aun fornicando, iba
+        a lograr que se sintiera atraído por mi narrativa, por mi manera de relatar una historia, por mi manera de contar algo tan
+        personal e importante como: la peor época de mi adolescencia. \n
+        \t\tNo éramos un amo y sumisa al uso, no se pretendía. Sí, teníamos nuestros códigos secretos y nuestra consensuada manera de
+        decirnos «¡basta!», pero eso sólo significaba que había mucho respeto entre ambos. Yo le permitía cuidar de mí, que fuera
+        mi dulce señor, pero no era de su propiedad ni él lo sería nunca de la mía. Cuando le pregunté: «¿Te gustaría escuchar un
+        relato mientras me follas?», él me respondió, «Mientras no tenga que decir una sola palabra, haz lo que te parezca: sólo
+        quiero lo que he pagado». Y con la arrogancia que le caracterizaba, unido a un gesto amable, pero firme, soltó la mágica
+        frase que tan cachonda me ponía: «Ahora muéstrame tu culo y deja que te lo ponga al rojo, cariño». \n
+        \t\tTal como lo dijo, se hizo. Me encontré, cual perrita domesticada y obediente, en la posición que a él más le gustaba
+        practicar. Estaba encima del mullido edredón para que, a cuatro patas, y detrás, mi cliente desnudo de cintura para abajo,
+        su estaca me empalara como lo hacía Tepes: del coño a la boca. Tan alargada y morcillona la tenía que temía que me partiese
+        en dos, más que nada porque le gustaba mi ano como a un perro tras olisquearlo. Para alivio mío ―¡oh, divina fortuna!―,
+        sabía que con Don Román se podía usar lubricación; él mismo se responsabilizaba de obtenerla para nuestros encuentros
+        —hasta en eso era un galán, un macho cabrío educado y corruptor de agujeros oscuros: sabía cómo darnos el máximo placer—.
+        Una vez su pene fuere untado con dicha vaselina, y poniendo también un poco de ésta sobre el borde de mi rosado agujerito,
+        sentí dolor, era obvio; sin embargo, también supe cuándo la puntita de su glande se introdujo en la cueva de Ali Baba,
+        robándome parte de mi feminidad, sodomizando a mi alma con pasión y, lectores y lectoras míos, aquí es cuando da comienzo
+        mi historia, entre jadeos desmesurados y caricias compartidas. Distribuidas con fuerza bruta y a mano abierta sobre mis
+        pobres nalgas humilladas… enrojecidas. \n\n\n
+
+        Mucho más en Amazon Kindle.
+    </string>
+    <string name="demo_psicopatia">
+        \t\tEstimado Padre McCoy:\n
+\t\tSupongo que no esperaba encontrarse este papelucho arrugado con cuatro garabatos rojizos escritos en él, pero necesito desahogarme con alguien.\n
+\t\tLlámelo redimirme si así lo prefiere, y tendrá toda la razón en hacerlo: la tisis me come por dentro y no creo que me quede mucho tiempo, así que, sí. Si escribo esto, es para irme más tranquilo al otro barrio.\n
+\t\tVamos por partes, empecemos por el principio: sé que todos andan revolucionados intentando saber quién es Jack el Destripador. Dejen de molestarse: nunca lo sabrán. A mí me queda demasiado poco y, aunque pusieran patas arriba Whitechapel entero, o incluso todo el East End londinense, jamás darían conmigo.\n
+ \t\tUna vez dicho esto, sé que se han vertido múltiples hipótesis sobre mí y mis motivos para hacer todo lo que hice: que si frustración sexual con el género femenino, que si estudiante de medicina con altos conocimientos de anatomía humana…\n
+ \t\tNada más lejos de la realidad.\n
+\t\t¿Tan difícil es de entender que, simplemente, me gustaba hacer lo que hacía?\n
+ \t\tSí, lo admito. Y, como buen estudiante de anatomía que fui (ahí no andan desencaminados ustedes), sé destripar a la perfección un cuerpo humano, ya sea masculino o femenino. A mí, por supuesto, me gusta más el femenino, para qué vamos a negarlo.\n
+\t\tDiscúlpeme por el goterón de sangre, padre: la tisis no perdona, y la risa que me ha provocado este último comentario me ha hecho toser y esputarla.\n
+ \t\t¿Que por qué prostitutas? Porque no tenían nada que ganar ni que perder; y porque hubiera sido muy distinto si hubiera matado, por ejemplo, a estudiantes pudientes: sus familias habrían removido cielo y tierra para encontrarme y, lo más seguro, ahora estaría escribiendo esto entre rejas.\n
+\t\tPero, dígame, padre, y cotéjelo con la policía e incluso con los forenses si así lo desea, ¿no creen que mi «trabajo manual» fue realmente bueno? Cualquier cirujano e incluso cualquier forense se sentiría orgulloso de mis intervenciones.\n
+\t\tSí. De algo me sirvieron mis años en la Facultad de Medicina. ¿Y por qué no decirlo? De algo me sirvieron también esas noches de hastío en el pub Ten Bells en las que solía beber mientras veía deambular, casi pavoneándose, a Mary Jane, Mary Anne y compañía en busca de alguien con quien pasar el rato a cambio de un puñado de monedas.\n
+\t\tEn fin. El daño está hecho: hay cinco cadáveres sobre la mesa, un asesino que sigue suelto, aunque no por mucho tiempo, y un departamento de policía que anda loco intentando dar caza a ese psicópata.\n
+\t\tYa le digo, padre, que les será inútil, porque muy pronto me sumergiré en la oscuridad perpetua. Solo espero que, si Dios no se apiada de mí, Lucifer me tenga reservado un buen sitio en el infierno para ver cómo acaba todo esto. Porque estoy seguro de que mi nombre prevalecerá a través de los tiempos, arrancando escalofríos a quien se atreva a pronunciarlo y a quien tenga la desgracia de oírlo.\n
+ \t\tSinceramente suyo,\n
+\t\tJack el Destripador.
+    </string>
+    <string name="datos_ex_sinceramentesuyo">
+        <b>\t\tSOBRE EL ASESINO\n\n</b>
+        \t\t<b>Nombre:</b> desconocido\n
+        \t\t<b>Alias:</b> Jack el Destripador\n
+        \t\t<b>Zona de actuación:</b> barrio de Whitechapel (Londres)\n
+        \t\t<b>Periodo de actividad:</b> 1888\n
+        \t\t<b>Número de víctimas:</b> cinco, aunque se sospecha que pudieron ser más.\n
+        \t\t<b>Modus operandi:</b> cortes en garganta, mutilación en abdomen y genitales,
+        extirpación de órganos y desfiguración de rostro.\n
+        \t\t<b>Estatus:</b> muerto. Nunca fue detenido. Identidad desconocida.\n
+    </string>
+    <string name="cabecera_1_psicopatia">
+        Oh, Señor,\n
+        ¿no vas a salvarme,\n
+        a salvarme de mi alma?\n
+        Oh, Señor,\n
+        ¿no me perdonarás por haber perdido el control?\n
+        <b>In this Moment</b>
+    </string>
+    <string name="noticia_suceso_sinceramentesuyo_1">
+        SUCESOS <i>Criminales históricos</i> EL NOTICIERO 15/1/19\n\n
+        <b>Sale a subasta una supuesta carta del célebre Jack el Destripador, dirigida a un sacerdote</b>
+    </string>
+    <string name="noticia_suceso_sinceramentesuyo_2">
+        \t\tEsta misma tarde, en la casa de subastas Sotheby´s, se pujará por una supuesta misiva del infame asesino Jack el Destripador.\n
+ \t\La carta la entregó a la casa de subastas un familiar lejano de Joseph McCoy, sacerdote a quien va dirigida la misiva en la que el célebre criminal confesaría la autoría de los asesinatos y explicaría los motivos que lo llevaron a perpetrarlos, al encontrarse en los últimos momentos de su vida.\n
+\t\tDel conocido como Jack el Destripador se sabe que actuó en 1888 en el East End londinense, concretamente en el barrio de Whitechapel, y que cometió al menos cinco crímenes (los conocidos como cinco canónicos, porque en todos siguió el mismo patrón), aunque no se descarta que fuera el autor de varios más que ocurrieron en la zona en aquella época.\n
+\t\tSu modus operandi se caracterizaba por cortes en la garganta, mutilaciones en las zonas genital y abdominal, extirpación de órganos y desfiguración de la cara.\n
+\t\tLa oleada de crímenes escalofrió a los vecinos de Whitechapel, que se llegaron a organizar en patrullas ciudadanas para darle caza, pero no lo lograron.\n
+\t\tY es que, además de a los crímenes, si hay algo que se asocia a la imagen de este asesino, son las cartas que se molestaba en enviar a la prensa, al comité ciudadano de vigilancia de Whitechapel e incluso a la policía, jactándose, en la mayoría de ellas, de que jamás darían con él.\n
+\t\tAlgunas misivas incluso iban acompañadas de órganos humanos. Es el caso de la titulada Desde el Infierno, que llegó a manos del jefe del comité de vigilancia el 15 de octubre de 1888 en un sobre junto a una cajita que contenía un riñón en su interior y del cual el remitente y supuesto criminal dice que se comió el trozo restante.\n
+\t\tLa leyenda del asesino de Whitechapel se ha mantenido hasta nuestros días gracias a los hallazgos de varias cartas, como la ya mencionada Desde el Infierno, Querido Jefe o Sinceramente suyo, por la que se pujará esta tarde en Sotheby´s.\n
+\t\tLas misivas están ahí; sin embargo, en la actualidad, la identidad de Jack el Destripador sigue siendo un misterio.\n
+    </string>
+    <string name="cabecera_2_psicopatia">
+        Pon la cuchilla en mi cuello.\n
+        (…)\n
+        ¿Sientes el alma, la fiebre, el poder?\n
+        <b>Oomph!</b>
+    </string>
+    <string name="demo_psicopatia_2">
+        \t\tSe terminó el café, recostado en la máquina de snacks del edificio de aquella vieja facultad de Periodismo, y miró el reloj: las nueve menos cuarto.\n
+ \t\tSolo era cuestión de segundos, quizá de algunos minutos, pero pocos, verla aparecer. Y, en efecto, así fue. Vaqueros, una cazadora oscura que no dejaba ver la camiseta que había debajo, botas negras, y grandes cascos de burbuja en los que, adivinó debido a su cercanía y al volumen de la música, sonaba Metallica.\n
+\t\tElla ni se percató de su presencia. Él tampoco quería que lo hiciera. Así, llegado el momento, todo resultaría mucho más fácil.\n
+\t\tSonrió al observarla meter el dinero en la máquina y esperar mientras marcaba el ritmo de la canción que sonaba en sus oídos con los pies. La vio sacar el café y marcharse hacia arriba. Hacia las clases.\n
+\t\tEsperó un poco hasta asegurarse de que no lo veía seguirla y fue tras ella: casi podía oler el leve rastro del aroma a manzana que dejaba su perfume.\n
+\t\tAsomado a la puerta de la clase, la vio quitarse la cazadora. Llevaba la camiseta de El Viejo Caserón. Era una puta friki de aquel pasaje del terror; no entendía por qué, si él podía llegar a provocarle un terror mucho peor.\n
+\t\tPero aún no. Cuando llegara el momento.\n
+\t\tLa vio sentarse en la mesa y hablar con una compañera sin mucho entusiasmo; a juzgar por su cara, aquella asignatura no era de sus favoritas, así que sacó su ordenador y comenzó a teclear algo en él. El hombre que la observaba supuso que sería algún relato para el blog donde escribía.\n
+\t\t«Deberías prestar atención a la clase, Sandrita…», la reprendió mentalmente en tono paternal antes de chasquear la lengua, sintiendo la excitante sensación de poder que le daba el observarla a hurtadillas y saber tanto de ella, incluso el trivial detalle de su nombre, lo que menos le importaba.\n
+\t\tA veces, en algún rato ocioso, mientras la esperaba en las escasas ocasiones en las que ella iba con una de sus amigas al aula de informática, él solía leer su blog de historias macabras, carcajeándose. Le gustaba el terror, la sangre, las torturas, las cuchilladas…\n
+ \t\tLo describía todo tan bien que él podía visualizar en su mente con claridad todas y cada una de las gloriosas y sangrientas escenas que plasmaba y que, en más de una ocasión, hicieron que se le pusiera dura. Lo que a otro le habría asqueado, a él lo excitaba. Y ella escribía sobre todo ello.\n
+\t\tEso contaba como punto en común, ¿no?\n
+ \t\tRio su propia ocurrencia y la boca se le ensanchó al pensar que su presa ni siquiera se imaginaba que él iba tras sus pasos y sabía tanto de ella. ¿Qué diría si supiese que un asesino la seguía de cerca?\n
+ \t\tLa había visto feliz con sus amigas, la había visto inquieta, e incluso estresada antes de algún examen; la había observado en la mesa en la que se solía sentar para pasar apuntes a limpio, siempre con su música puesta; había escuchado sus risitas y las de su novio en la biblioteca cuando estudiaban (o fingían estudiar, más bien), incluso había escuchado sus gemidos mientras se lo montaban en los baños de la facultad.\n
+\t\tLos fines de semana no la espiaba ―aunque ya había averiguado dónde vivía: en el número 50 de una de las calles de un barrio de 49 chalets de Getafe― y solía aprovechar para ir al gimnasio. Le encantaba perfeccionar su ya de por sí musculado cuerpo, tumbado en el banco de abdominales, levantando cincuenta kilos a cada lado de la barra que sostenía las pesas; para él casi era un juego alzar las mancuernas para bíceps y tríceps. Incluso hacía series de quince dominadas, levantándose con los brazos por encima de la barra a la que se sujetaba, con una cadena atada la cintura, haciendo alarde de su dureza; se descargaba dando patadas y puñetazos al saco de boxeo.\n
+\t\tY, mientras se machacaba en el gimnasio, no dejaba de pensar en su presa. Mientras el sudor perlaba su frente, bufaba y gemía por el esfuerzo, volvía mentalmente a la caza furtiva que ejercía en la universidad. Mientras ignoraba a todos aquellos mindundis que se empeñaban en darle los buenos días cuando entraba en el vestuario, pensaba que el lunes volvería a verla y sentiría la adrenalina y el poder que ostentaba sobre ella, ignorante del peligro que la acechaba, como una gran tormenta a punto de descargarle encima.\n
+ \t\t¡Cuatro meses había esperado paciente a que llegara ese momento! Cuatro meses espiando, observando, incluso preguntando por ella a algunos compañeros de clase, fingiendo que la chica le interesaba para poder saber algo más de ella. Ahora ya lo sabía todo.\n
+\t\tY, por fin, aquel lunes, después de tanto tiempo regando, había llegado la hora de cortar la flor, y le importaban una mierda las consecuencias, aunque sabía que no las habría. ¿Quién iba a sospechar de él?\n
+\t\tEntró a clase, se sentó tras ella y dejó que su mente volviera atrás por un instante. Cuando la vio por primera vez, a punto estuvo de cazarla; pero se contuvo, porque él no actuaba nunca así. No acabaría con ella de inmediato. Le gustaba recrearse en el acto de acechar, de observarla sin que lo supiera.\n
+\t\tRecordó que cierto día era tanta su ansia que creyó que no lo soportaría. Pensó esperar a que se hiciera de noche y, cuando su presa fuese a volver a casa… ¡Bam! ¡Sorpresa! Pero se la dio con queso y la muy zorra se fue temprano. No era muy amiga de quedarse en la facultad hasta tarde. Y, si lo hacía, bien por una cosa o bien por otra, no la pillaba: un día volvía con una amiga hasta el bus, otro día el novio iba a buscarla…\n
+ \t\tNo obstante, aquel día nada ni nadie podría interponerse entre ellos. Se lo juró a sí mismo al verla levantarse y caminar hasta un extremo del aula para subirse a la especie de escenario que había ante la pizarra. Le tocaba exponer. Y estaba muy, pero que muy nerviosa. Los suspiros que daba con cada paso la delataban. No era capaz ni de mirar al público y su vista se perdió en la pared del fondo.\n
+\t\tSin embargo, él sí se fijaba en ella, y mientras lo hacía se la imaginaba como seguro nadie de quienes había en ese momento en aquella clase lo hacía: tirada en el suelo, empapada en aquel líquido maravilloso, palpitando, gimiendo casi sin aliento buscando algo que no llegaba ni llegaría. Ayuda. Nadie la salvaría, y cuando la encontraran, sería demasiado tarde.\n
+\t\tCerró los ojos y sintió un escalofrío. Suspiró tratando de relajarse, pero, al abrirlos, volvió a verla y a descentrarse. Cuanto más la miraba, más deseo sentía de poder lanzarse sobre su presa y acabar de una vez con todo.\n
+ \t\tLa clase duró lo que para él fue una eternidad, una eternidad en la que empezó a sentir un intenso calor, y esa fue la señal de que había llegado el momento. Se tocó la frente y, efectivamente, debía tener fiebre. Las manos empezaron a sudarle al tiempo que salía de clase sin perderla de vista.\n
+ \t\tSe quedó algo rezagado mientras la veía hablar con un grupo de compañeros y suplicó en silencio que la dejaran irse ya, sola. Había llegado el momento y no había vuelta atrás. No. Esta vez ya no.\n
+\t\tCon mucho disimulo, y casi sin quitarle los ojos de encima, sacó de su mochila un enorme cuchillo y, oculto tras una columna, se lo escondió bajo la cazadora. Cerró la cremallera de la bolsa y cuando levantó la vista, comprobó con fastidio que ella aún seguía charlando.\n
+\t\tLa conversación no duró mucho. Por fin su codiciada presa echó a andar. Él sonrió y fue tras ella, viéndola torcer la esquina en dirección a los baños. Justo cuando iba a entrar, la agarró por detrás, tapándole la boca con fuerza. Ella hizo ademán de gritar, pero su mano acalló sus chillidos. Sintió sus labios sobre los dedos, e incluso los dientes cuando lo mordió, haciendo que experimentara un agradable dolor: el que delataba la resistencia de la que hacía gala todo buen trofeo que se preciase.\n
+ \t\tAhogó un gemido al notar el daño y el hilo de sangre manar de su mano mientras la forzaba a entrar al baño y cerraba la puerta como podía, a la vez que intentaba que parara de forcejear. La soltó un momento y la oyó gritar un milisegundo antes de empujarla brutalmente contra la pared del habitáculo. Ella perdió el conocimiento, cayendo y callando. Eso no era lo que él quería. Él quería escucharla suplicar ayuda con el último aliento de vida. Solo así conseguiría curarse.\n
+\t\tSonrió y abofeteó a la joven para espabilarla, pero no logró nada.\n
+\t\tAbrió su mochila y hurgó dentro hasta encontrar lo que buscaba. Empapó una gasa en alcohol y la acercó a la nariz de su presa, que empezó a mover la cabeza de un lado a otro, aturdida, abriendo los ojos.\n
+\t\tNo quiso darle tiempo a más. Ardía en fiebre, y ante él tenía la cura. Sacó el cuchillo y lo clavó en el estómago de la chica, que dejó escapar un grito que brotó desde lo más hondo de sus entrañas; el último de su vida.\n
+ \t\tEl cazador se carcajeó a la vez que hundía más el arma, sintiendo que el sudor helado le perlaba la frente y caía al cuerpo de ella, empapado en sangre.\n
+ \t\tObservó, sin dejar de reír, hasta la más mínima contracción de la cara de su trofeo, y cómo, a medida que su vida se iba apagando, hacía esfuerzos cada vez mayores por gritar mientras se retorcía de dolor bañada en lágrimas y en sangre.\n
+\t\tAl fin la tenía como tantas veces se la había imaginado: en el suelo, empapada en aquel líquido maravilloso, palpitando, gimiendo casi sin aliento, buscando esa ayuda que ya no llegaría, porque la víctima apenas balbuceaba ya.\n
+\t\tÉl sonrió y sacó el cuchillo del estómago de su víctima para luego volver a meterlo una, dos, tres, cuatro veces, sintiendo que estaba alcanzado el alivio momentáneo a su enfermedad; que había dado, de nuevo, después de meses de espera y paciencia, con el chute efímero de aquella particular droga que, casi milagrosamente, hacía que la fiebre bajase, su corazón volviera poco a poco a su ritmo normal, y dejase de temblar.\n
+ \t\tCuando todo acabó, dejó caer el cadáver al suelo y respiró hondo varias veces, esperando que la ansiedad terminara de desaparecer. Cuando no quedó ni rastro de aquella opresión en el pecho, el cazador dio un rápido vistazo al cadáver de su presa y abandonó el baño después de guardar el cuchillo.\n
+\t\tSalió a la calle; aquel día soleado incitaba a los estudiantes más rebeldes a estar en todos lados menos en el interior de las clases, así que decidió dar un paseo por el campus mientras buscaba una nueva medicina.\n
+\t\t«Más vale prevenir que curar», pensó sonriendo.\n
+    </string>
+    <string name="datos_ex_lacura">
+        <b>SOBRE EL ASESINO\n\n</b>
+        <b>Nombre:</b> desconocido\n
+        <b>Alias:</b> el Asesino de la Carlos III\n
+        <b>Lugar/es de actuación:</b> Universidad Carlos III de Madrid.\n
+        (Facultad de Humanidades, Comunicación y Documentación. Campus de Getafe)\n
+        <b>Periodo de actuación:</b> enero 2020\n
+        <b>Número de víctimas:</b> tres\n
+        <b>Modus operandi:</b> apuñalamiento\n
+        <b>Estatus:</b> en busca y captura\n
+    </string>
+    <string name="datos_ex_lacura_I">
+        \t\tLa joven periodista repasó la ficha sobre el criminal, que ella misma había escrito a mano en su libreta, y sonrió recordando la mañana en que su jefe, el editor del periódico en el que trabajaba, le dijo que se encargaría de la sección de sucesos.\n
+\t\tAunque le gustaba cubrir conciertos, obras de teatro y toda clase de eventos culturales, ella siempre había soñado con los sucesos, le fascinaba todo lo macabro y sentía un morbo y atracción oscuros por las noticias que implicaban sangre, crimen y vísceras.\n
+\t\tDespués de haber pasado la prueba de escribir sobre el hallazgo de la carta de Jack el Destripador, había seguido el rastro a todo tipo de criminales, que reflejó en sus noticias: el Allanador, el Asesino del 2º C, el Escorpión…\n
+ \t\tEn aquella redacción se sentía como en casa, y ahora le tocaría cubrir, ni más ni menos, que la oleada de asesinatos en la facultad de Periodismo de la universidad de Getafe, donde ella había estudiado esa misma carrera años atrás. Y, aunque aquella mañana sería tranquila, porque solo se limitaría a tomar el pulso a los estudiantes del campus, indagando sobre cómo estaban viviendo los acontecimientos, aquello le apasionaba tanto que no podía evitar estar algo nerviosa.\n
+\t\tAún recordaba lo mucho que la enamoró esa asignatura, Información de Sucesos y Tribunales, gracias a la que tuvo claro casi desde la primera clase que haría su Trabajo de Fin de Grado sobre un crimen; todavía se acordaba de lo que decía aquel viejo profesor de Noticia Periodística: que las noticias estaban en la puta calle, que solo había que salir a oler como cerditos truferos.\n
+\t\tY ella era toda una cerdita trufera, ¡vaya si lo era! Solo le hacía falta la oportunidad, que, casualidades de la vida, le había llegado hacía unos meses.\n
+ \t\t«Ah, la época de estudiante…», pensó al llegar a la facultad, que estaba justo como la recordaba.\n
+\t\tEntró en el edificio y, siguiendo la costumbre de su época estudiantil de cada día antes de clase, fue a la máquina de café y se sacó uno de avellana.\n
+ \t\t«Como en los viejos tiempos», dijo para sí con un deje de nostalgia.\n
+ \t\tY, como en los viejos tiempos, pasó a saludar a Tamara, la encargada de la sala de reprografía.\n
+\t\t―¡Dichosos los ojos! ¿Has vuelto para imprimir otro tocho de los tuyos? ―saludó la dependienta con alegría, antes de salir de detrás del mostrador y darle un gran abrazo y dos besos.\n
+ \t\t―¿His vinidi piri imprimir itri…? ―se burló la reportera echándose a reír, pero enseguida recobró el semblante serio.\n
+\t\t―No ―dijo―. He venido por trabajo. El periódico me ha encargado cubrir los asesinatos.\n
+ \t\tLa expresión de Tamara se tornó asustada.\n
+\t\t―La verdad es que hay mucho miedo, tía, porque no se sabe quién es. Y yo estoy acojonada: cuando cierro repro, aquí no hay nadie ya. Y los seguratas, si es que los encuentro, que esa es otra, están en cualquier sitio menos donde tienen que estar; pasan de acompañarme al parking, ¿sabes? La reportera sacó la libreta, comenzó a apuntar, y solo dejó de escribir cuando la conversación giró hacia un terreno más personal y ambas se contaron sus andanzas amorosas y cómo había transcurrido su vida en aquellos tres años desde que la joven periodista dejó la facultad. Luego, la reportera se despidió de Tamara, haciéndole asegurar que tendría cuidado.\n
+\t\t―¡Lo siento! ―se disculpó después de darse la vuelta para salir de la sala cuando chocó con un chico que más bien era una inmensa mole de músculo, de dos metros y medio de altura, quien, comparado con ella, la hacía parecer un hobbit, y que hacía cola para imprimir mientras la miraba con cara de malas pulgas.\n
+ \t\tTamara no pudo contener la risa ante el tropiezo de su amiga, y se tapó la boca con la mano. Conocía de vista a aquel bigardo que siempre parecía estar enfadado con el mundo: solía imprimir apuntes allí con frecuencia, y, en alguna ocasión, incluso le había hecho sacar en papel noticias de los periódicos digitales locales que hablaban sobre los asesinatos de la universidad.\n
+ \t\t«Maldito tarado…».\n
+\t\t―Toma ―contestó el mastodonte, sin cambiar su cara agria, a la reportera, tendiéndole la libreta, que había caído al suelo tras el tropiezo.\n
+\t\tPor toda respuesta, ella le sonrió y le dio las gracias, poniendo rumbo al exterior del edificio en busca de testimonios.\n
+\t\t«Intranquilidad» y «miedo» eran las dos palabras que más había apuntado en su cuaderno, después de recoger una buena cantidad de opiniones de los alumnos del campus. La mayoría de las chicas temían quedarse hasta tarde, aunque se sabía que el asesino había actuado durante las horas de clase, lo cual no las tranquilizaba; los alumnos varones eran más de «si me le cruzo, le reviento la cara».\n
+\t\tY otro detalle: solo había matado a mujeres. A tres en total. A la última la abordó camino de los baños y la asesinó en una de las cabinas.\n
+ \t\t«Cosida a puñaladas en los baños de la universidad» tituló, en un alarde del sensacionalismo más puro, un medio de la competencia cuando se supo del último crimen.\n
+\t\tLa periodista suspiró de camino hacia las aulas de informática, dejándose llevar, otra vez, por la nostalgia. ¿Cuántas tardes había pasado ante esos ordenadores haciendo trabajos, o simplemente mirando Twitter, sola o con su buena amiga Marina?\n
+\t\tSus dedos en las teclas avanzaban al mismo ritmo que sus nostálgicos pensamientos y no pararon hasta acabar de redactar la noticia, a última hora de la tarde, cuando decidió darse una tregua con una Coca-Cola de la máquina de vending del edificio.\n
+    </string>
+    <string name="datos_ex_lacura_II">
+        \t\tEl hombre la observaba, sentado a dos sillas de ella, frente a aquella máquina de snacks; intentaba disimular dando bocados de vez en cuando a aquel insípido bocadillo de jamón y queso que había sacado de la expendedora antes que ella.\n
+\t\tLa chica no lo sabía, pero la había seguido casi desde que llegó a la facultad ese día: la había visto charlar sobre él con su amiguita de la tienda de fotocopias unas horas antes, casi había podido olerla mientras hacía cola tras ella, y, cuando le devolvió aquella estúpida libreta, había tocado el mismo papel que ella habría manoseado antes.\n
+ \t\tLa vio salir a preguntar sobre los asesinatos a toda aquella panda de niñatos y putas que estaban despanzurrados en el césped, que no tendrían otra cosa mejor que hacer que tumbarse en la hierba en vez de ir a clase. La observó entrar en los distintos edificios para seguir recabando testimonios, y había pasado tan cerca que pudo escucharlos: había oído el miedo en la boca de ellas, y esa chulería de todos aquellos machirulos que creían que serían capaces de tumbarlo si lo encontraban.\n
+\t\tSe había excitado. Había sentido un hormigueo cada vez que oía las palabras crimen, asesinatos, e, incluso, psicópata. Y se había sentido orgulloso. Poderoso. Invencible.\n
+\t\tTuvo que contenerse mientras continuaba siguiendo a su presa hasta que, por fin, la tuvo casi al lado. No sabía si podría refrenarse más cuando, como de costumbre ante un trofeo así, las manos comenzaron a sudarle y la frente se le empapó.\n
+\t\tVio a la chica ir hasta el baño y entró tras ella, sigiloso. Observó desde una esquina, y sin que él estuviera aún en su ángulo de visión en el espejo, cómo se lavaba las manos y luego entraba en una de las cabinas. Entonces, la siguió y la empujó dentro.\n
+ \t\tLa sangre no tardó en brotar cuando la reportera se golpeó la cabeza contra la esquina mientras él sacaba su reluciente cuchillo y la agarraba del cuello con fuerza para levantarla.\n
+\t\tLa fuerte mano de él contra la suave piel de ella; su rostro que mudaba de blanco a rojo; la sangre de la víctima subiendo a su cabeza empujada por los dedos del asesino que, sobre su cuello, apretaban cada vez más fuerte; el aire que ella trataba de recuperar, y que, por más que luchaba, no lograba hacerlo; sus gemidos intentando pedir ayuda y los gritos que emitió cuando él le clavó el arma en el estómago, para luego subir hasta el lado izquierdo de su pecho y hundírsela en el corazón, sacarla y volver a hundirla hasta cinco veces más.\n
+\t\tEl reguero de sangre salía ya fuera de la cabina que él, en un alarde de ego, ni se preocupó en volver a cerrar cuando acabó. Quería que admiraran su obra.\n
+ \t\tSe lavó las manos cuidadosamente, limpió y secó el cuchillo, que luego metió en la mochila, y salió de los baños en busca del primer contacto con la que, al menos durante el mes siguiente, sería su próxima presa: la dependienta de reprografía, quien, justo en ese momento, estaba cerrando la sala, supuso, para irse por fin a casa y ver cualquier gilipollez en Netflix.\n
+\t\tEl cazador sonrió: carpeta en mano, mochila a la espalda y un expediente impecable. ¿Quién iba a sospechar de él?\n
+ \t\t―¿Estás cerrando ya? ―le preguntó a la joven, que se giró con un sobresalto al escucharlo después de haber echado la llave a la puerta.\n
+\t\tSe lo quedó mirando y un escalofrío le recorrió la espalda.\n
+\t\tAquel tío siempre le había parecido de lo más raro; mientras lo observaba, se sintió incómoda al imaginarse aprisionada entre aquellos brazos fuertes que parecían los de un luchador profesional, con sus huesos chasqueando con suma facilidad debido a su constitución delgada.\n
+\t\t―Perdona ―se disculpó él, amable, haciéndola salir de sus peculiares pensamientos―, no pretendía asustarte. ―Sonrió―. Tranquila. Mañana vuelvo. ¡Chao! ―dijo antes de enfilar el pasillo, viendo a la dependienta caminar en dirección a los baños.\n
+\t\tY, mientras él salía del edificio, con los últimos rescoldos de fiebre desapareciendo poco a poco, se preguntó qué cara pondría su futura quinta víctima cuando descubriera el cadáver masacrado de su amiga la periodista.\n
+    </string>
+    <string name="datos_ex_lacura_III">
+        \t\tA Laura, la feroz periodista de sucesos, apasionada amante de su trabajo. Tus compañeros del periódico EL NOTICIERO no te olvidan.\n
+    </string>
+    <string name="slasher_crossover">
+        \t\tEl teléfono no dejaba de sonar.\n
+        \t\t―Hola. ¿Quieres morir esta noche? ―Se oyó preguntar a Ghostface antes de que nadie descolgara el auricular.\n
+        \t\tElla dormía.\n
+        \t\tCuando el asesino la vio por la ventana, destripada, bufó de fastidio: Krueger se le había adelantado.\n
+        \t\tLe debía una cerveza.\n
+    </string>
+    <string name="slasher_reinagrito">
+        \t\tClavas tus ojos abiertos en mi máscara mientras el cuchillo entra y sale de tu estómago.\n
+        \t\tUna, dos, tres, cuatro, cinco, seis, hasta siete veces.\n
+        \t\tTus gritos componen la mejor de las canciones, de tu boca brota un río rojo y, con la poca fuerza que te queda, consigues quitarme la máscara, descubriendo la identidad del asesino que aterroriza al pueblo.\n
+        \t\tTe atragantas con la sangre cuando ahogas un último grito, e intentas asimilar lo que tienes ante tus ojos.\n
+        \t\t¿Es que no ves películas de terror?\n
+        \t\tNunca debiste haberte fiado de tu novio.\n
+    </string>
+    <string name="slasher_peliculapreferida">
+        \t\tAbres WhatsApp: tu amigo el friki no deja de hablarte de pelis de terror, de chicas finales, de slasher, de reinas del grito, de cuántas ganas tiene de volver a ver Scream contigo por milésima vez, porque quiere reirse de ti mientras te atragantas otra vez con las palomitas siempre que Ghostface aparece de improviso.\n
+        \t\t«Me voy a dormir ya, zumbao», tecleas.\n
+        \y\t«Ok. Descansa, anda, reina… del grito XDDDD», te responde él.\n
+        \t\tEstás a punto de cerrar la aplicación y, de repente, te llega un mensaje. Es de un número desconocido. Lo abres y lees la única línea que hay, sobria, sin emojis, que dice: «¿Cuál es tu película de terror preferida?».\n
+        \t\tBufas de fastidio y abres el chat de tu colega:\n
+        \t\t―Tío, déjalo ya, que mañana curro, andaaaaa ―Le grabas en audio, bastante enfadada. Al instante, recibes su respuesta escrita:\n
+        \t\t«¿Qué?»\n
+        \t\tEntre bostezos, le vuelves a enviar un audio:\n
+        \t\t―¿No me acabas de enviar un mensaje desde un número desconocido, cabrón? ―le dices, antes de mandarle la captura de pantalla del mensaje, que no tiene ni siquiera imagen de perfil en el chat.\n
+        \t\t«Yo no te he enviado nada», te responde él.\n
+        \t\t«Espera», vuelve a escribirte.\n
+        \t\t«Llaman al timbre. A ver quién es a estas horas…».\n
+        \t\t«¿No te habrás dormido?», tecleas, muerta de sueño, cuando pasan cinco minutos y ves que no te ha respondido.\n
+        \t\tEn ese momento, te llega un audio del número desconocido, en el que oyes a tu amigo suplicar, gritar…\n
+        \t\tSegundos después, recibes la foto: tu colega, tirado en el suelo, sin vida, junto a un charco de sangre.\n
+        \t\tPoco después, recibes el audio en el que una voz distorsionada te dice:\n
+        \t\t―Si hubieras jugado, él aún viviría. ¿A que ahora sí me dirás cuál es tu película de terror preferida?\n
+    </string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485291988930",
+    "firebase_url": "https://blaisantka-novels.firebaseio.com",
+    "project_id": "blaisantka-novels",
+    "storage_bucket": "blaisantka-novels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485291988930:android:0c9bd229fd076d7715685b",
+        "android_client_info": {
+          "package_name": "com.blaisantkanovels.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485291988930-gj7bounodrq6o9celemf904912663rgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevbvefWpb7MNHp4J1foG28sdcpWxnVIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485291988930-gj7bounodrq6o9celemf904912663rgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

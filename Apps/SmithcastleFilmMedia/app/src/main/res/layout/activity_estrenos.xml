@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#82CAFF"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/light_blue_600">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="ESTRENOS"
+            android:textColor="#FF0000"
+            android:textAlignment="center"
+            android:textStyle="bold|italic"
+            android:textSize="30dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+
+        <ImageView
+            android:id="@+id/imagesam"
+            android:layout_width="165dp"
+            android:layout_height="290dp"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            android:scaleType="fitStart"
+            android:src="@drawable/samsaddiary" />
+
+        <ImageView
+            android:id="@+id/imagelady"
+            android:layout_width="165dp"
+            android:layout_height="290dp"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="center"
+            android:scaleType="fitStart"
+            android:src="@drawable/lemadaiaespiritista" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/directorsam"
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="60dp"
+            android:text="Dirección: M.A.H."
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/estrenosam"
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="60dp"
+            android:text="Estreno: 20 febrero 2023"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="12dp"/>
+
+        <TextView
+            android:id="@+id/titulosam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Título: \nSam Sad Diary"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="180dp">
+
+        <TextView
+            android:id="@+id/directorespiritu"
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="60dp"
+            android:text="Dirección: M.A.H."
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/estrenoespiritu"
+            android:layout_width="150dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="60dp"
+            android:text="Estreno: 07 mayo 2023"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="12dp"/>
+
+        <TextView
+            android:id="@+id/tituloespiritu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Título: \nLema Daia: La Espiritista"
+            android:textSize="13dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="530dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:src="@drawable/bannersmithcastle"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Smithcastle Pictures © 2023"
+            android:textAlignment="center"
+            android:background="@color/light_blue_600"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+    </LinearLayout>
+</FrameLayout>

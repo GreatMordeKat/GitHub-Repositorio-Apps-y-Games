@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context="com.blaisantkanovels.app.fragments.one">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/desliza"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:src="@drawable/desliza"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="10dp"/>
+
+
+    <ImageView
+        android:layout_gravity="top"
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:foreground="@drawable/logo_blkn_portada"
+        android:contentDescription="@string/todo" />
+
+    <Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="bottom"
+        android:background="@color/transparent">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:background="@color/transparent"
+            android:src="@drawable/arrow_down_animated" />
+    </Toolbar>
+
+</FrameLayout>
